@@ -1,4 +1,4 @@
-python -m venv (folder link)
+python -m venv (folder link)\venv
 
 (folder link)\venv\scripts\activate
 
@@ -6,4 +6,4 @@ python -m venv (folder link)
 
 pip install (package)
 
-ex. pip install numpy 
+eg. pip install numpy 
