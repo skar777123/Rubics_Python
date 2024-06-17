@@ -4,6 +4,8 @@ python -m venv (folder link)\venv
 
 [you will see venv in green]
 
-pip install (package)
+pip install numpy
 
-eg. pip install numpy 
+pip install vpython
+
+pip install kociemba
